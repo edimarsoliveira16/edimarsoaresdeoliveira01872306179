@@ -18,7 +18,7 @@ Preparado para versionamento /api/v1
 
 *Governança de código
 
-.gitattributes (resolve CRLF definitivamente)
+.gitattributes
 
 .gitignore
 
