@@ -1,7 +1,5 @@
-Dockerfile text eol=lf
-*.sh text eol=lf
-*.yml text eol=lf
-*.yaml text eol=lf
-*.md text eol=lf
+* text=auto eol=lf
 *.java text eol=lf
 *.sql text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
