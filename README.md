@@ -34,9 +34,11 @@ Organização compatível com crescimento (security, domain, infra)
 Abrir no IntelliJ / VS Code
 
 Rodar:
-
+unzip artists-api-ZIP-FINAL-DE-ENTREGA.zip
+cd artists-api-final-delivery
 mvn clean package
 docker-compose up --build
+
 
 Acessar:
 
